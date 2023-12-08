@@ -18,21 +18,41 @@ This repository contains implementations of various data structures and algorith
 
 Here is a list of the data structures that are (or will be) implemented:
 
-- Linked List
-- Stack
-- Queue
-- Binary Tree
-- Graph
-- ...and more
+[ ] Dynamic Array (Array List)
+[ ] Linked List
+[ ] Doubly Linked List
+[ ] Stack
+[ ] Queue
+[ ] Priority Queue (Heap)
+[ ] Union Find
+[ ] Binary Search Tree
+[ ] Hash Table
+[ ] Fenwick Tree
+[ ] AVL Tree
 
 ## Algorithms
 
 This section includes a variety of algorithms, focusing on:
 
-- Sorting (e.g., Quick Sort, Merge Sort)
-- Searching (e.g., Binary Search)
-- Graph Algorithms (e.g., Dijkstra's Algorithm)
-- ...and others
+[ ] Merge Sort
+[ ] Quick Sort
+[ ] Binary Search
+[ ] Sliding Window Fixed Size
+[ ] Sliding Window Variable Size
+[ ] In-Order Traversal
+[ ] Pre-Order Traversal
+[ ] Post-Order Traversal
+[ ] Level-Order Traversal
+[ ] Breadth First Search (BFS)
+[ ] Depth First Search (DFS)
+[ ] Dijkstra's Shortest Path
+[ ] Floyd Warshall Shortest Path
+[ ] Bellman-Ford Shortest Path
+[ ] Kruskal's Minimum Spanning Tree
+[ ] Matrix Multiplication
+[ ] Rabin-Karp for String Matching
+[ ] Prefix function Kunth-Morris-Pratt
+[ ] Aho-Corasick
 
 ## Testing
 
